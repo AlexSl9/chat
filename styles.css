@@ -1,0 +1,57 @@
+#border {
+  position: absolute;
+  background-color: rgb(118, 10, 151);
+  width: 30%;
+  left: 35%;
+  height: 95%;
+}
+#messages {
+  position: absolute;
+
+  background-color: rgb(255, 255, 255);
+  width: 96%;
+  left: 2%;
+  height: 93%;
+  top: 2%;
+}
+#controls {
+  position: relative;
+  top: 95%;
+  background-color: indigo;
+  width: 96%;
+  left: 2%;
+  height: 4%;
+}
+#poletext {
+  position: absolute;
+  height: 74%;
+  width: 80%;
+}
+#button :hover {
+  color: red;
+  background-color: rgb(125, 25, 172);
+}
+
+#button {
+  background-color: rgb(76, 17, 104);
+  float: right;
+  height: 100%;
+  width: 19%;
+  text-align: center;
+  color: white;
+  -webkit-user-select: none;
+}
+
+.meska {
+  background-color: rgb(146, 13, 146);
+  color: white;
+  margin: 5px;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+.Date1 {
+  font-size: 8pt;
+  color: rgb(255, 136, 255);
+  text-align: right;
+  padding: 3px;
+}
